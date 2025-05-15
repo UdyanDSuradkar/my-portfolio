@@ -63,5 +63,5 @@ Ensure the following are installed:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/UdyanDSuradkar/my-portfolio.git
 cd my-portfolio
