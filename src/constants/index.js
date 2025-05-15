@@ -263,11 +263,11 @@ const socialImgs = [
     imgPath: "/images/linkedin.png",
     url: "https://www.linkedin.com/in/udyan-suradkar-210138203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  {
-    name: "github",
-    imgPath: "/images/github.png",
-    url: "https://github.com/UdyanDSuradkar",
-  },
+  // {
+  //   name: "github",
+  //   imgPath: "/images/github.png",
+  //   url: "https://github.com/UdyanDSuradkar",
+  // },
 ];
 
 export {
