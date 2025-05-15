@@ -149,8 +149,8 @@ const expCards = [
   {
     review:
       "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
-    logoPath: "/images/logo1.png",
+    imgPath: "images/andweimg.jpeg",
+    logoPath: "images/andwelogo.png",
     title: "Frontend Developer",
     date: "January 2023 - Present",
     responsibilities: [
@@ -190,7 +190,7 @@ const expCards = [
 const expLogos = [
   {
     name: "logo1",
-    imgPath: "/images/logo1.png",
+    imgPath: "images/andwelogo.png",
   },
   {
     name: "logo2",
@@ -263,11 +263,11 @@ const socialImgs = [
     imgPath: "/images/linkedin.png",
     url: "https://www.linkedin.com/in/udyan-suradkar-210138203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-  {
-    name: "github",
-    imgPath: "/images/github.png",
-    url: "https://github.com/UdyanDSuradkar",
-  },
+  // {
+  //   name: "github",
+  //   imgPath: "/images/github.png",
+  //   url: "https://github.com/UdyanDSuradkar",
+  // },
 ];
 
 export {
