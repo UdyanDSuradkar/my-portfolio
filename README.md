@@ -18,14 +18,7 @@
   </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -70,5 +63,5 @@ Ensure the following are installed:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/your-username/3d-portfolio.git
-cd 3d-portfolio
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
