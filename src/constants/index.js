@@ -254,16 +254,14 @@ const socialImgs = [
     url: "https://www.instagram.com/_.udyan_one8?igsh=ajlsajhlcHlpeWp0",
   },
   {
-    name: "fb",
-    imgPath: "/images/fb.png",
-  },
-  {
     name: "x",
     imgPath: "/images/x.png",
+    url: "https://x.com/Udyan_D_s?t=qaxtwxHrbFCRVKuSSUtrsQ&s=08",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/udyan-suradkar-210138203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
 ];
 
