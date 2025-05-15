@@ -1,10 +1,4 @@
 <div align="center">
-  <br />
-  <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-    <img src="public/images/readme.png" alt="Project Banner">
-  </a>
-  <br />
-
   <div>
     <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
