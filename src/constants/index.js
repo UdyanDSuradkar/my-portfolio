@@ -29,10 +29,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
+  { value: 4, label: "Months of Internship Experience" },
   { value: 250, suffix: "+", label: " LC Problems Solved" },
-  { value: 10, label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 5, suffix: "+", label: "Personal and Academic Projects" },
+  { value: 100, suffix: "%", label: "Commitment to Learning and Growth" },
 ];
 
 const logoIconsList = [
