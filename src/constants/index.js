@@ -147,8 +147,7 @@ const techStackIcons = [
 
 const expCards = [
   {
-    // review:
-    //   "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: `"We wish him all the success in his future endeavors."`,
     imgPath: "images/andweimg.jpeg",
     logoPath: "images/andwelogo.png",
     title: "Web Developer Intern",
