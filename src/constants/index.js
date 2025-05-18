@@ -147,16 +147,17 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review:
-      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    // review:
+    //   "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "images/andweimg.jpeg",
     logoPath: "images/andwelogo.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Web Developer Intern",
+    date: "February 2024 - June 2024",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
+      "Developed and Improved web pages.",
+      "Worked on website Development Code Debugging, Refactoring, Performance Optimization Tasks, Code Reviews and Pair Programming.",
       "Optimized web applications for maximum speed and scalability.",
+      "Hands on HTML, CSS, JavaScript, React.js, PHP, MySQL, and Bootstrap, Ajax, API Integration.",
     ],
   },
   // {
