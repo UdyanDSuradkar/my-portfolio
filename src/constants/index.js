@@ -30,7 +30,7 @@ const words = [
 
 const counterItems = [
   { value: 4, label: "Months of Internship Experience" },
-  { value: 250, suffix: "+", label: " LC Problems Solved" },
+  { value: 300, suffix: "+", label: " LC Problems Solved" },
   { value: 5, suffix: "+", label: "Personal and Academic Projects" },
   { value: 100, suffix: "%", label: "Commitment to Learning and Growth" },
 ];
